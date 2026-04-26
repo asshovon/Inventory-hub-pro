@@ -1,2 +1,10 @@
-# Inventory-hub-pro
-A comprehensive inventory management system with custom fields, flexible ID formats, and group access control.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `Local_API_KEY` in [.env.local](.env.local) to your Local API key
+3. Run the app:
+   `npm run dev`
